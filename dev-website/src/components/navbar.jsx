@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+
 import logo from "/WESTON.svg"
 import menu from "/menu.svg"
 import close from "/close.svg";
 import { Link } from "react-router-dom";
+import { useState } from "react";
 
 
 const Navbar = () => {
