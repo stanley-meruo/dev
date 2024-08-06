@@ -1,2 +1,2 @@
-This is a collaboration React Project 
-# dev
+# dev-react-estate
+An ongoing collaboration estate website build with React
